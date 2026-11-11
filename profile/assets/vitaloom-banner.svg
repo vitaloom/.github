@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">VitaLoom — Build healthier habits. Stay consistent. Live better.</title>
+<desc id="desc">Green and mint VitaLoom brand banner with four health metrics and an illustrative personal health dashboard.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4FCF8"/><stop offset=".57" stop-color="#D5F3E6"/><stop offset="1" stop-color="#92D9BA"/></linearGradient>
+  <linearGradient id="leaf" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#137652"/><stop offset="1" stop-color="#55C98C"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6FCF9"/></linearGradient>
+  <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8ADDB7"/><stop offset="1" stop-color="#3AA582"/></linearGradient>
+  <filter id="shadow" x="-25%" y="-25%" width="150%" height="170%"><feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#1D765D" flood-opacity=".15"/></filter>
+  <clipPath id="rounded"><rect width="1200" height="420" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#rounded)">
+ <rect width="1200" height="420" fill="url(#background)"/>
+ <circle cx="1120" cy="12" r="240" fill="#D5FFF0" opacity=".65"/>
+ <circle cx="1195" cy="388" r="248" fill="#44B58A" opacity=".13"/>
+ <path d="M0 326C142 278 242 361 372 320S607 268 732 329 1010 358 1200 297V420H0Z" fill="#86D9B8" opacity=".23"/>
+ <path d="M0 373C157 333 273 419 427 369S681 332 823 385 1041 360 1200 351V420H0Z" fill="url(#wave)" opacity=".25"/>
+ <g transform="translate(70 48)">
+   <path d="M0 22C4 3 27-5 43 0 43 25 24 43 4 43 3 35 8 19 25 11 11 14 4 21 0 22Z" fill="url(#leaf)"/>
+   <path d="M6 46C-6 32-5 12 8 5 17 18 22 29 6 46Z" fill="#17795A" opacity=".94"/>
+   <path d="M7 45C15 28 23 20 37 12" fill="none" stroke="#D5F8DF" stroke-width="2.3" stroke-linecap="round"/>
+ </g>
+ <text x="126" y="84" fill="#103C33" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="750" letter-spacing="-.9">VitaLoom</text>
+ <rect x="70" y="112" width="218" height="28" rx="14" fill="#FFFFFF" fill-opacity=".65" stroke="#C2EADA"/>
+ <circle cx="86" cy="126" r="4" fill="#36A47D"/>
+ <text x="99" y="131" fill="#277761" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing=".3">PERSONAL WELL-BEING</text>
+ <text x="70" y="195" fill="#103C33" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="39" font-weight="760" letter-spacing="-1.6">Build healthier habits.</text>
+ <text x="70" y="244" fill="#103C33" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="39" font-weight="760" letter-spacing="-1.6">Stay consistent. Live better.</text>
+ <text x="71" y="280" fill="#34685C" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">From daily health data to lasting everyday change.</text>
+ <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">
+   <rect x="70" y="315" width="137" height="55" rx="18" fill="#FFFFFF" fill-opacity=".78" stroke="#B9E7D6"/>
+   <path d="M87 342c-8-9 5-18 12-8 7-10 20-1 12 8l-12 12Z" fill="#F48682"/>
+   <path d="M90 343h5l3-5 4 10 3-5h6" fill="none" stroke="#FFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+   <text x="119" y="348" fill="#16463D">Heart Rate</text>
+   <rect x="216" y="315" width="119" height="55" rx="18" fill="#FFFFFF" fill-opacity=".78" stroke="#B9E7D6"/>
+   <path d="M232 343l12-14 9 7-13 16-15 0Z" fill="#44B18A"/><path d="M230 348h22" stroke="#1B7F63" stroke-width="3" stroke-linecap="round"/>
+   <text x="260" y="348" fill="#16463D">Steps</text>
+   <rect x="344" y="315" width="116" height="55" rx="18" fill="#FFFFFF" fill-opacity=".78" stroke="#B9E7D6"/>
+   <path d="M372 330a13 13 0 1 0 7 21 12 12 0 0 1-7-21Z" fill="#4F98BF"/><text x="387" y="348" fill="#16463D">Sleep</text>
+   <rect x="469" y="315" width="114" height="55" rx="18" fill="#FFFFFF" fill-opacity=".78" stroke="#B9E7D6"/>
+   <path d="M495 329c-5 8-9 13-9 18a10 10 0 0 0 20 0c0-5-5-12-11-18Z" fill="#4BBAC0"/>
+   <text x="513" y="348" fill="#16463D">Water</text>
+ </g>
+ <g transform="translate(765 33)" filter="url(#shadow)">
+   <rect x="0" y="0" width="388" height="348" rx="28" fill="url(#panel)" stroke="#C5E3D8"/>
+   <text x="28" y="40" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="750" fill="#173E35">Today at a glance</text>
+   <text x="28" y="60" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" fill="#658F80">A simple view of your everyday health</text>
+   <g font-family="Inter,Segoe UI,Arial,sans-serif">
+     <rect x="22" y="80" width="162" height="100" rx="17" fill="#FFF2F1"/>
+     <circle cx="46" cy="105" r="12" fill="#FECBC7"/>
+     <path d="M39 105h4l2-4 3 8 2-4h5" stroke="#E96B68" stroke-width="2" fill="none"/>
+     <text x="65" y="110" fill="#8F6763" font-size="13">Heart rate</text>
+     <text x="39" y="153" fill="#173E35" font-size="28" font-weight="750">72 <tspan font-size="12" font-weight="500">bpm</tspan></text>
+     <rect x="202" y="80" width="164" height="100" rx="17" fill="#E9F9EE"/>
+     <circle cx="227" cy="105" r="12" fill="#BAEAD0"/>
+     <path d="M220 107l5-6 5 4-5 6-9 0Z" fill="#298A63"/>
+     <text x="246" y="110" fill="#5B8B6F" font-size="13">Steps</text>
+     <text x="218" y="153" fill="#173E35" font-size="28" font-weight="750">6,420</text>
+     <rect x="22" y="192" width="162" height="100" rx="17" fill="#EFF5FE"/>
+     <circle cx="46" cy="218" r="12" fill="#CFDDF4"/>
+     <path d="M46 209a10 10 0 1 0 9 15 10 10 0 0 1-9-15Z" fill="#5184BB"/>
+     <text x="65" y="223" fill="#5E7A9F" font-size="13">Sleep</text>
+     <text x="39" y="267" fill="#173E35" font-size="28" font-weight="750">7h 30m</text>
+     <rect x="202" y="192" width="164" height="100" rx="17" fill="#EAF9F8"/>
+     <circle cx="227" cy="218" r="12" fill="#C2EBE7"/>
+     <path d="M227 209c-5 7-7 11-7 14a7 7 0 0 0 14 0c0-3-2-7-7-14Z" fill="#35AEB0"/>
+     <text x="246" y="223" fill="#548F8B" font-size="13">Water</text>
+     <text x="218" y="267" fill="#173E35" font-size="28" font-weight="750">1.5 <tspan font-size="13" font-weight="500">L</tspan></text>
+     <text x="27" y="322" font-size="11" fill="#91A9A0">Illustrative UI · Synthetic / sample data</text>
+   </g>
+ </g>
+</g>
+</svg>
